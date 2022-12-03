@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/firebase-practice-react/static/css/main.17fe661c.css",
+    "main.js": "/firebase-practice-react/static/js/main.7d93dcab.js",
+    "index.html": "/firebase-practice-react/index.html",
+    "main.17fe661c.css.map": "/firebase-practice-react/static/css/main.17fe661c.css.map",
+    "main.7d93dcab.js.map": "/firebase-practice-react/static/js/main.7d93dcab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17fe661c.css",
+    "static/js/main.7d93dcab.js"
+  ]
+}
